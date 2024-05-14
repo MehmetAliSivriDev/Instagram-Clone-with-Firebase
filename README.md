@@ -1,5 +1,6 @@
 # Instagram Clone with Firebase
 -This project is still being developed.<br>
+-Using provider state management, easylocalization, and firebase<br>
 -Notes : <br>
 -ADD Pages will be cleaned.<br>
 -Language and theme control will be done on ADD and HOME Pages and deficiencies will be eliminated, provider errors will be fixed and controllers will be added to the provider structure.<br>
