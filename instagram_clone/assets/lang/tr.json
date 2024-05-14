@@ -1,0 +1,19 @@
+{
+    "emailTF" : "Email",
+    "passTF" : "Şifre",
+    "passConfirmTF" : "Şifre Tekrar",
+    "usernameTF" : "Kullanıcı Adı",
+    "bioTF" : "Bio",
+    "forgetPassTxt" : "Parolamı Unuttum?",
+    "loginBtn" : "Giriş Yap",
+    "signUpBtn" : "Kaydol",
+    "haveAnAccount" : "Hesabınız yok mu?",
+    "emailValidator" : "Lütfen geçerli bir email giriniz!",
+    "passValidator" : "Lütfen geçerli bir şifre giriniz!",
+    "usernameValidator" : "Lütfen geçerli bir kullanıcı adı giriniz!",
+    "bioValidator" : "Lütfen geçerli bir bio giriniz!",
+    "passConfirmValidator" : "Şifreler uyuşmuyor!",
+    "errorLogin" : "Giriş başarısız oldu",
+    "selectPhoto" : "Lütfen bir fotoğraf seçiniz!"
+
+}

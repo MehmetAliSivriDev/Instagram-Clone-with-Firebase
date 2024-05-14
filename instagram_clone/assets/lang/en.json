@@ -1,0 +1,18 @@
+{
+    "emailTF" : "Email",
+    "passTF" : "Password",
+    "passConfirmTF" : "Password Confirm",
+    "usernameTF" : "Username",
+    "bioTF" : "Bio",
+    "forgetPassTxt" : "Forgot Password?",
+    "loginBtn" : "Login",
+    "signUpBtn" : "Sign Up",
+    "haveAnAccount" : "Don't have an account?",
+    "emailValidator" : "Please enter a valid email!",
+    "passValidator" : "Please enter a valid password!",
+    "usernameValidator" : "Please enter a valid username!",
+    "bioValidator" : "Please enter a valid bio!",
+    "passConfirmValidator" : "Passwords do not match!",
+    "errorLogin" : "Login failed",
+    "selectPhoto" : "Please select a photo!"
+}
