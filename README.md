@@ -9,11 +9,11 @@
 <img src="screenshots/2w.png" width="200" height="400">
 <img src="screenshots/3w.png" width="200" height="400">
 <img src="screenshots/4w.png" width="200" height="400">
-<img src="screenshots/5w.png" width="200" height="400"><br>
+<img src="screenshots/5b.png" width="200" height="400"><br>
 
 -Black theme<br>
 <img src="screenshots/1b.png" width="200" height="400">
 <img src="screenshots/2b.png" width="200" height="400">
 <img src="screenshots/3b.png" width="200" height="400">
 <img src="screenshots/4b.png" width="200" height="400">
-<img src="screenshots/5b.png" width="200" height="400">
+<img src="screenshots/5w.png" width="200" height="400">
